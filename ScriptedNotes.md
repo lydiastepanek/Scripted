@@ -10,8 +10,8 @@ While completing the units below, the students are working towards becoming extr
 
 For unit 2, students must set up an account with GitHub and Cloud9 account. [This guide](resources/c9) serves as a tutorial for creating an account with each.
 
-| Unit  | Lessons | Topics | Project 	|
-|-------|:-------:|------	|--------------|
+| Unit  | Lessons | Topics | Project 	| Summary |
+|-------|:-------:|------	|--------------|--------------|
 | [**1. Introduction**](units/1-introduction/)| 1 | Computing processes, Algorithms |   N/A |
 | [**2. HTML**](units/2-HTML/)| 5 | Webpage structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/5-project/README.md)   |
 | [**3. CSS**](units/3-CSS/)| 5 | Site Mapping, Div tags,  | [About Me](units/3-CSS/lessons/2-pagesStyles),   [About Me with Bootstrap](units/3-CSS/lessons/project-part-b)  |
