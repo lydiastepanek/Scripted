@@ -42,4 +42,4 @@ Second year students will be completing their final projects using Cloud9 IDE. T
 | [7. NYC Data Map](unitsYear2/7-dataMap) |   | Big Data, Data Visualization, API, Client Server  | HeatMap of various data pulled from 311 |
 | [8. Learningpod Test Prep](unitsYear2/8-learningPod)|   | API, Client Server | Studyguide for various tests |[Learningpod](http://www.learningpod.com/developer) |
 | **10. Entrepreneurism** |  |  |  |
-| **11. ** |   | | 
+| **11. ** |   | |
