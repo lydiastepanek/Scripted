@@ -13,10 +13,9 @@ For unit 2, students must set up an account with GitHub and Cloud9 account. [Thi
 | Unit  | Lessons | Topics | Project 	| Summary |
 |-------|:-------:|------	|--------------|--------------|
 | [**1. Introduction**](units/1-introduction/)| 1 | Computing processes, Algorithms |   N/A | 1. Basics of thinking like a coder |
-| [**2. HTML**](units/2-HTML/)| 5 | Webpage structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/5-project/README.md)   | 1. Hello world, h1-h6; 2. cloud9, github accounts. inline styles (color, text align), absolute and relative img src paths 3. Lists (ul, li), tables (td, tr) 4. Layout: Header, Footer, Main, Aside 5. Creating a social media page:w
-
-| [**3. CSS**](units/3-CSS/)| 5 | Site Mapping, Div tags,  | [About Me](units/3-CSS/lessons/2-pagesStyles),   [About Me with Bootstrap](units/3-CSS/lessons/project-part-b)  |
-| [**4. Programming with Scratch**] (units/4-scratch/) | 4 | Algorithms, `if`/`else`, comparison operators  | [Ol Mc'Donald MadLibs](units/4-scratch/lessons/4-project) w/ `if`/`else` statement |
+| [**2. HTML**](units/2-HTML/)| 5 | Webpage structure, Simple Styles, Site Layout |[Social Media Webpage](units/2-HTML/lessons/5-project/README.md)   | 1. Hello world, h1-h6; 2. cloud9, github accounts. inline styles (color, text align), absolute and relative img src paths 3. Lists (ul, li), tables (td, tr) 4. Layout: Header, Footer, Main, Aside 5. Creating a social media page |
+| [**3. CSS**](units/3-CSS/)| 5 | Site Mapping, Div tags,  | [About Me](units/3-CSS/lessons/2-pagesStyles),   [About Me with Bootstrap](units/3-CSS/lessons/project-part-b)  | 1. A General Assembly course that covers a header section, several styles and JavaScript buttons 2. Page heriarchy and where to put your css file 3. divs are used to group things 4. What is a library? What is bootstrap? How to apply bootstrap classes and make a bootstrap grid 5. About me page using twitter bootstrap |
+| [**4. Programming with Scratch**] (units/4-scratch/) | 4 | Algorithms, `if`/`else`, comparison operators  | [Ol Mc'Donald MadLibs](units/4-scratch/lessons/4-project) w/ `if`/`else` statement | 1. Repeat 4 times 2. variables and boolean 3. If else (scratch uses a visual lego type thing to build these) 4. Build game
 | [**5. JavaScript**] (units/5-javascript/) | 4 | Variables, functions, random number generation, pseudo-code, comments | [Calculator](units/5-javascript/lessons/4-project/) |
 | [**6. Strings**] (units/6-string/) | 2  | Functions, casting, comparison | [Madlibs](units/6-string/lessons/2-project) |
 | [**7. Conditionals**](units/7-conditional/) | 2  | Boolean values, `if`/`else`, comparison operators, logical operators | [High low](units/7-conditional/lessons/2-project) |
